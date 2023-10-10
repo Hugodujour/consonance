@@ -1699,3 +1699,7 @@ h3 {
 #footer .credits {
   font-size: 13px;
 }
+
+.strong {
+  text-decoration: underline;
+}
